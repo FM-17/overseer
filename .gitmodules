@@ -1,0 +1,3 @@
+[submodule ".RedlightModule"]
+	path = .RedlightModule
+	url = https://github.com/RudePooch/Redlight.git
