@@ -1,2 +1,2 @@
 # overseer
-A custom Redlight configuration
+A custom [Redlight](https://github.com/RudePooch/Redlight/) configuration
